@@ -1,0 +1,14 @@
+PageObjectWays\WithPageFactory.class
+com\medimentionTestCase\BaseClass.class
+com\medimention_pageObject\AccountPage.class
+com\medimention_pageObject\BasePage.class
+com\medimention_pageObject\Front_Page.class
+com\medimention_pageObject\RegisterPage.class
+PageObjectWays\LoginTest.class
+com\Medimention\utilities\ReportingManager.class
+com\medimentionTestCase\TC_001_Registration.class
+PageObjectWays\WithOutPageFactory.class
+com\Medimention\utilities\ExcelUtility.class
+com\medimentionTestCase\TC_001_Register_DDT.class
+com\medimention_pageObject\HomePage.class
+com\Medimention\utilities\DataProviders.class
